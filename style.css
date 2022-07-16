@@ -1,0 +1,172 @@
+html,body{
+  height: 100%;
+  margin: 0;
+}
+body{
+  background-image: url(img//1616579188_17-p-avtoservis-fon-19.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.logoimg {
+  position: absolute;
+  width: 119px;
+  height: 111px;
+  left: 58px;
+  top: 20px;
+}
+.logoLink{
+  position: absolute;
+  width: 793px;
+  height: 50px;
+  left: 584px;
+  top: 50px;
+  display: flex;
+  justify-content: space-evenly;
+  align-content: center;
+  align-items: center;
+}
+.link{
+position: relative;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+
+}
+.name{
+  position: absolute;
+  width: 655px;
+  height: 120px;
+  left: 657px;
+  top: 270px;
+
+  font-family: 'Encode Sans SC';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 96px;
+  line-height: 120px;
+  /* identical to box height */
+
+  background: linear-gradient(1deg, rgba(0, 0, 0, 0.4) 19.62%, rgba(255, 168, 0, 0.4) 78.38%), #FFA800;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+
+
+}
+.property{
+  /* послуги */
+
+
+width: 1321px;
+height: 229px;
+left: 299px;
+top: 600px;
+display: flex;
+align-content: center;
+}
+.repair{
+  /* ремонт */
+
+  position: absolute;
+  width: 341px;
+  height: 224px;
+  left: 299px;
+  top: 700px;
+  margin-left: auto;
+  margin-right: auto;
+
+
+}
+
+.repairT{
+  /* Ремонт автомобіля */
+
+  /* Ремонт автомобіля */
+
+  position: absolute;
+  width: 203px;
+  height: 70px;
+  left: 368px;
+  top: 849px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 20px;
+  line-height: 70px;
+  /* identical to box height, or 350% */
+  text-align: center;
+
+  color: #FFFFFF;
+
+
+
+}
+.diagnistic{
+  /* kompyuternaya-diagnostika-vazhnejshaya-procedura-proverki-vashego-avto-na-ispravnost 1 */
+
+  position: absolute;
+  width: 341px;
+  height: 224px;
+  left: 1279px;
+  top:calc( 787px - 92px);
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.diagnisticT{
+  /* Діагностика */
+
+  position: absolute;
+  width: 128px;
+  height: 70px;
+  left: 1386px;
+  top: calc(941px - 92px);
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 20px;
+  line-height: 70px;
+  /* identical to box height, or 350% */
+  text-align: center;
+
+  color: #FFFFFF;
+}
+.change{
+  /* gf_may_engine_oil 1 */
+
+position: absolute;
+width: 341px;
+height: 224px;
+left: 789px;
+top: 700px;
+
+}
+.changeT{
+  /* Заміна масла */
+
+position: absolute;
+width: 143px;
+height: 70px;
+left: 888px;
+top: calc(941px - 92px);
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 20px;
+line-height: 70px;
+/* identical to box height, or 350% */
+text-align: center;
+
+color: #FFFFFF;
+
+
+}
